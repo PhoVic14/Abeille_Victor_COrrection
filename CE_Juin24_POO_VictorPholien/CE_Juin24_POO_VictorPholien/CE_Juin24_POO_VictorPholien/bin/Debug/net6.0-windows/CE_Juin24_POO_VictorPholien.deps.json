@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CE_Juin24_POO_VictorPholien/1.0.0": {
+        "runtime": {
+          "CE_Juin24_POO_VictorPholien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CE_Juin24_POO_VictorPholien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
